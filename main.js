@@ -77,3 +77,11 @@ function classificaSenha(tamanhoAlfabeto) {
 }
 
 
+
+
+
+
+
+
+
+
